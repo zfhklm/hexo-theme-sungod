@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 韦阳的博客
-subtitle: 算法码上来
-description: 华东师范大学 | 计算机科学与技术 | 自然语言处理
-keywords: "ECNU NLP DeepLearning AntNLP 韦阳 godweiyang WeiYang 自然语言处理 深度学习 算法码上来"
-author: 韦阳
+title: 吾爱hacking的博客
+subtitle: 没有没有用的代码，只有没有用的人。
+description: h5教学 | 安卓魔改 | 维护网络
+keywords: "52hacking 尼姑拉斯和 深度学习 算法码上来"
+author: 吾爱
 language: zh-CN
 timezone:
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://godweiyang.com
+## If your site is put in a subdirectory, set url as 'http://zfhklm.tk/' and root as '/zh/'
+url: http://zfhklm.tk/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
